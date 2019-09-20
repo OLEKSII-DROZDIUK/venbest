@@ -1,0 +1,16 @@
+.container {
+  background: white;
+}
+
+.filters {
+  text-align: center;
+}
+
+.form-control {
+  min-width: 200px;
+}
+
+.filters-name label {
+  margin:0px;
+  
+}
